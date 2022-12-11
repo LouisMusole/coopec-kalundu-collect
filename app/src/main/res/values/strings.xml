@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Coopec Collect</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="transactions">Transactions</string>
+    <string name="membres">Membres</string>
+    <string name="analyses">Analyses</string>
+    <string name="title_activity_collect_money">CollectMoneyActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+
+</resources>

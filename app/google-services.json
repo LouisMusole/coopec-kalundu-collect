@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "734931469634",
+    "project_id": "coopec-kalundu",
+    "storage_bucket": "coopec-kalundu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734931469634:android:2637ec3c056c5ceb6cb4db",
+        "android_client_info": {
+          "package_name": "com.rdcmind.coopeccollect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734931469634-enov6s4ofga8dkoigg8pd3557jq4oghc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKXkoXMZB6CVPF7RvExYIRVca9b43KQfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734931469634-enov6s4ofga8dkoigg8pd3557jq4oghc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
